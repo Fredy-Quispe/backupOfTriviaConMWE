@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "triviamwe",
+  "private_key_id": "f9fecc1aa7ea14a8f93f2cce33681bfb19860c33",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD33iq6kFPNUZzd\nwHjRlTaKhXs7S3c5En0XmhcqQViP14+FRRetV5Rupb32rmr69aMj6oEeiFlX6Bhu\n40s+bXpfT3ZAXSqilAaYBL3si/LTwgBbpKwLaWWx/iN/DWHnZRZslv5Ypy4/8TNp\nNeuJtw4nJO7TTYKEEfndFV6CfICgo53pOrTnJ4ARunh3AXUYGsjvwAKG5mv98edL\nkjQfk1Z+YYK2Tim2a4NTu032MzRyLWqXbf16YEUxgIF9nAHqhdC4Fnb92s+HEkAt\nW7QHKCuI/ZyOGZXb1jsCeV821AWCRAFPY8r9tkBJXk2omHCywp5MChEXljnHv9pZ\nM9+giAlzAgMBAAECggEAVhtw/pTK+AXFF+gYUL6kTuTmFYg257W7jSpzp7NBv96j\ntil1ezt0jie34W1gLsSMoxqBNokpeHdhnYwKhKplm5ywONXkzMvdqovjKrzHY7b+\nhtejCOfZc0cVL7sHaupcKucdftC9KWtyb7dSlunn2cNj0DYaBCV2hs44od38lVDy\nsAW8EvmBDhuM/hzzj5H/eUpfAg+6BQliiqLHTiZhcPOmXA7IxsEsqlV7P5ZLwNAX\nHxA5hkibfpILH53q4n/dVoN68Gy4bl97oG1Hplbg3yqQNGMsW1yo1xJz+mIi0otJ\n+seepTrU/grFNSeauvXec+k252dFLH/SvIM5dtcSIQKBgQD+rKXSzfT51Dr7gfoG\n0PeJKw+3GBkwbJaDAWPmcZXIzTK5Dx866d0OVnOGNzrcK+lqAHJjN+BxdnaggMds\nV0tXm9ZmJEg94O7VPQiLKdPWg56628Yh0PiGcKC8aO2eGOpz7Iph1S9ZUZr8Rr6Q\nRQtHiNkUHQsuGdgoAD0LerK88QKBgQD5KHMPIqLYA3KoPYtgJiyamM3AYWEBRL6m\nfCiMB8TRsbXRSo/iJ4M1OmzsznsuISN5IJ73Dbpmv5kF1tL1np8rA52uX3w6YWzV\nAffgjnSlX2Bwv2kAFbG0NoFP0qe0AvgDUOhlC2j0vloc7Z7Smll3ayQAyJgD3fmE\nLKlyBIV8owKBgQD1uZueFL7kNtRaTAT0grf0j6nwHb5gLMXkzXiYpsvBHcxtJpwZ\negCijuOUgsG2ImBquNelyAo1L/oxz0+bx3aYp3Jsx2E0401OTj9qFwegmQqUfO1l\nP34sKYvNfuiWfK/q/jZfQxUWd1i1RYUlKplBglcBwyxAZQtdPS2pX9AJ4QKBgQDV\nfk94/JjEt8+bUYEH1i4KGjzTR52zVJB4X5LuyglgFQJSX62Cf5DyHyoOj68FC+g1\ndjpAP0clm68nTbheNpj0ZpjKPY9ZBvoWWyVnCSnyOhONCLaUGAK5BKsxFrQUjyas\n0LsROgGpFSJp/0JD+3YF2Yx0D24SgjW3h/15cV5gOQKBgCLbImYxTpWEmi7nLyCF\nYB5VqrIVaEGeu6w7qwLBSYSGpP1x9h7jN3tSrdOyr5UmcgQnjnBkOsK6f/d0OLUW\n71goXrRAgFk1Ch79Bc5xws4TUYL1nz3vnwa/AaQqkeG2/bBT6RlMmmrX+VQ7ER9l\nQuAO5vLHEy8VwJelpX5BUyqW\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets-service-account@triviamwe.iam.gserviceaccount.com",
+  "client_id": "104952001960721886759",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-service-account%40triviamwe.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
